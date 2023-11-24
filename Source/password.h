@@ -1,7 +1,6 @@
 ﻿#pragma once
 #include "formatVolume.h"
 
-
 // Hàm thiết lập mật khẩu cho volume
 void setPasswordVolume(fstream& file, Volume*& vol);
 
